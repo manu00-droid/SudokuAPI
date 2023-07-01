@@ -1,0 +1,4 @@
+com\manav\sudoku\controller\MainController.class
+com\manav\sudoku\service\MoveValidity.class
+com\manav\sudoku\service\SudokuSkeletonCreator.class
+com\manav\sudoku\SudokuApplication.class
